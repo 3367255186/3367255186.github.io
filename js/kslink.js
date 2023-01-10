@@ -1,4 +1,3 @@
-
 var leonus = {
     linkCom: e => {
         var t = document.querySelector(".el-textarea__inner");
